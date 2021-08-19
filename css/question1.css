@@ -1,0 +1,43 @@
+body{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    list-style-type:  none;
+    padding: 0;
+}
+
+.main{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+footer{
+    margin-top: 1.2em;
+    font-weight: 600;
+}
+
+.main__question__description{
+    margin-top: 1.3em;
+}
+.main__question__description > section{
+    margin-top: 0.4em;
+}
+
+.main__question__description__step > article>header{
+    text-decoration: underline;
+}
+.main__question__description__step> article {
+    margin-top: 0.5em;    
+}
+
+.main__question{
+    margin-top: 2em;
+}
+.main__question__description__step__header--padding{
+    padding-bottom: 1em;
+}
+
+.steps>header {
+    padding: 0.8em 0em;
+}
